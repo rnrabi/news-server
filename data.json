@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "profession": "Software Engineer",
+      "email": "johndoe@example.com",
+      "country": "United States",
+      "salary": 80000,
+      "biodata": {
+        "age": 32,
+        "gender": "Male",
+        "education": "Bachelor's degree in Computer Science",
+        "skills": [
+          "Java",
+          "Python",
+          "JavaScript"
+        ],
+        "languages": [
+          "English",
+          "Spanish"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "profession": "Marketing Manager",
+      "email": "janesmith@example.com",
+      "country": "Canada",
+      "salary": 70000,
+      "biodata": {
+        "age": 28,
+        "gender": "Female",
+        "education": "Bachelor's degree in Marketing",
+        "skills": [
+          "Digital marketing",
+          "Content creation",
+          "Social media"
+        ],
+        "languages": [
+          "English",
+          "French"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "profession": "Accountant",
+      "email": "bobjohnson@example.com",
+      "country": "Australia",
+      "salary": 60000,
+      "biodata": {
+        "age": 35,
+        "gender": "Male",
+        "education": "Bachelor's degree in Accounting",
+        "skills": [
+          "Financial analysis",
+          "Tax preparation",
+          "Budgeting"
+        ],
+        "languages": [
+          "English",
+          "German"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Sarah Lee",
+      "profession": "Graphic Designer",
+      "email": "sarahlee@example.com",
+      "country": "South Korea",
+      "salary": 50000,
+      "biodata": {
+        "age": 26,
+        "gender": "Female",
+        "education": "Bachelor's degree in Graphic Design",
+        "skills": [
+          "Adobe Photoshop",
+          "Illustrator",
+          "InDesign"
+        ],
+        "languages": [
+          "Korean",
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Jack Davis",
+      "profession": "Teacher",
+      "email": "jackdavis@example.com",
+      "country": "United Kingdom",
+      "salary": 45000,
+      "biodata": {
+        "age": 40,
+        "gender": "Male",
+        "education": "Master's degree in Education",
+        "skills": [
+          "Classroom management",
+          "Curriculum development",
+          "Assessment"
+        ],
+        "languages": [
+          "English",
+          "French"
+        ]
+      }
+    }
+]  
